@@ -3,7 +3,7 @@
 # Script d'installation de mon Fedora SilverBlue
 
 ### PréRequis
-1/ Fedora Workstation avec GNOME
+1/ Fedora Workstation avec GNOME   
 2/ Une connection internet     
 3/ Une tasse de chocolat chaud, le temps de l'installation ;)    
 
