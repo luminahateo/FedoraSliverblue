@@ -1,6 +1,6 @@
-![logoFedora](https://getfedora.org/static/images/fedora-logofull-white.png)
+![logoFedora](https://silverblue.fedoraproject.org/public/silverblue-logo.svg)
 
-# Script d'installation de mon Fedora Workstation
+# Script d'installation de mon Fedora SilverBlue
 
 ### PréRequis
 1/ Fedora Workstation avec GNOME
